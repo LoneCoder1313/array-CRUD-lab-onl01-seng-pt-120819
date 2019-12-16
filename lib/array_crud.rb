@@ -20,10 +20,10 @@ end
    end
    
 
-def remove_element_from_end_of_array(array, element=5)
-      
+def remove_element_from_end_of_array(array, element)
+       array=["wow", "I", "am", "really", "learning", "arrays!"]
       array.pop(element)
-      element= array("arrays!")
+      
 end
 
 def remove_element_from_start_of_array(array, element)
