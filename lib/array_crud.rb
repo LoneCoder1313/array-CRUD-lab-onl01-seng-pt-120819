@@ -10,11 +10,7 @@ def create_an_array
   dog_breeds = ["boxer", "pitbull", "mastiff", "corgi"] 
 end
 
-def add_element_to_end_of_array(array = ["wow", "I", "am", "really", "learning"])
-    element =["arrays!"]
-    while array =  ["wow", "I", "am", "really", "learning"]
-    array << element
-     array = ["wow", "I", "am", "really", "learning", "arrays!"]
+
   end 
 end
 
