@@ -26,7 +26,7 @@ def remove_element_from_end_of_array(array, element= "arrays!")
       array ["arrays!"]
 end
 
-def remove_element_from_start_of_array(array, element= "wow")
+def remove_element_from_start_of_array(array, element=0)
      array= ["wow", "I", "am", "really", "learning", "arrays!"]
       array.shift(element)
       array ["wow"]
