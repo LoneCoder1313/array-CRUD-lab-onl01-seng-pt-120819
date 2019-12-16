@@ -51,5 +51,7 @@ def retrieve_first_element_from_array(array, index_number = 0)
 end
 
 def retrieve_last_element_from_array(array, number= 5)
-  
+      array = ["wow", "I", "am", "really", "learning", "arrays!"]
+      array.index(number)
+      number = "arrays!"
 end
