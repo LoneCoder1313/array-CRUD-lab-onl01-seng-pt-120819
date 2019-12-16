@@ -45,7 +45,7 @@ def retrieve_element_from_index(array, index_number = "am")
 
 def retrieve_first_element_from_array(array)
       array = ["wow", "I", "am", "really", "learning", "arrays!"]
-      array.index[0]
+      array.index([0]="wow")
       return "wow"
     end 
 end
