@@ -21,8 +21,9 @@ end
    
 
 def remove_element_from_end_of_array(array, element=5)
+        ("arrays!") == 5  
       array.pop(element)
-      element==array("arrays!")
+      element= array("arrays!")
 end
 
 def remove_element_from_start_of_array(array, element)
