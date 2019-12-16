@@ -20,7 +20,7 @@ end
    end
    
 
-def remove_element_from_end_of_array(array, element)
+def remove_element_from_end_of_array(array, element="wow")
       array.pop(element)
       element==array("wow")
 end
