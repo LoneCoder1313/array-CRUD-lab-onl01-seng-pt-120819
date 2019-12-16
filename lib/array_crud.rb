@@ -20,16 +20,15 @@ end
    end
    
 
-def remove_element_from_end_of_array(array, element= 5)
+def remove_element_from_end_of_array(array, element)
       array = ["wow", "I", "am", "really", "learning", "arrays!"]
       array.pop(element)
       array ["arrays!"]
 end
 
-def remove_element_from_start_of_array(array, "wow"=0)
+def remove_element_from_start_of_array(array, "wow")
      array= ["wow", "I", "am", "really", "learning", "arrays!"]
       array.shift("wow")
-      array [0]
 end
 
 def retrieve_element_from_index(array, index_number = "am")
